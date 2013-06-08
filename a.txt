@@ -1,0 +1,3 @@
+1. the same line everywhere
+2. A conflicting line
+3. A missing line
